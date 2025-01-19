@@ -1,0 +1,8 @@
+{
+  "name":"云盘图标", 
+  "description":"Fileball挂载云盘图标",
+  "icons":
+  [
+  {"name":"ㅤㅤㅤ1", "url":"raw.githubusercontent.com/j0uz/QuantumultX/refs/heads/main/Icons/app/Quark.png"},
+  ]
+  }
