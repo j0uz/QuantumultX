@@ -1,10 +1,12 @@
 {
-  "name":"云盘图标", 
-  "description":"Fileball挂载云盘图标",
+  "name":"Jun 图标库", 
+  "description":"Jun 图标库",
   "icons":
   [
   {"name":"Quark", "url":"https:\/\/raw.githubusercontent.com/j0uz/QuantumultX/refs/heads/main/Icons/app/quark.png"},
   {"name":"zn-emby", "url":"https:\/\/raw.githubusercontent.com/j0uz/QuantumultX/refs/heads/main/Icons/server/zn-emby.png"},
+  {"name":"wenjian", "url":"https:\/\/raw.githubusercontent.com/j0uz/QuantumultX/refs/heads/main/Icons/server/wenjian.jpg"},
+  {"name":"liangxinyun", "url":"https:\/\/raw.githubusercontent.com/j0uz/QuantumultX/refs/heads/main/Icons/server/liangxin.png"},
   ]
 }
 
